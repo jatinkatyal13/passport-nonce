@@ -1,0 +1,19 @@
+{
+  "name": "passport-nonce",
+  "version": "1.0.0",
+  "description": "Passport strategy for nonce based authentication",
+  "main": "./lib",
+  "author": {
+    "name": "Jatin Katyal",
+    "email": "jatin.katyal13@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jatinkatyal13/passport-nonce.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "passport-strategy": "^1.0.0"
+  }
+}
